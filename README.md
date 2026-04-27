@@ -4,6 +4,10 @@
 
 An engaging Augmented Reality (AR) project that brings the Solar System into the real world using image tracking. When the camera detects the target image, 3D planets appear and animate around the Sun, creating an interactive learning experience.
 
+🎥 Project Demo Video
+
+Watch the working demo here: https://youtu.be/xzvtdncIB2Y
+
 ✨ Core Features
 📸 Image Tracking
 
